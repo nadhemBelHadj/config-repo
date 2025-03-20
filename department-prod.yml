@@ -1,5 +1,5 @@
 build :
   version : "2.0"
 author:
-  name: "nadhem bel Hadj [PROD from config server]"
+  name: "nadhem bel Hadj [PROD from my remote repo on github]"
   email: "nadhemb[PROD]@yahoo.com"
